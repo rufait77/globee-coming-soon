@@ -15,7 +15,7 @@ export default function Footer() {
                     className="flex items-center gap-4 text-white/30 text-sm"
                 >
                     <Image
-                        src="/logo.svg"
+                        src="/logo-3.png"
                         alt="GlobeeLink"
                         width={100}
                         height={24}

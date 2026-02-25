@@ -29,7 +29,7 @@ export default function Navbar() {
                 {/* Logo */}
                 <div className="flex items-center gap-2">
                     <Image
-                        src="/logo.svg"
+                        src="/logo-3.png"
                         alt="GlobeeLink"
                         width={140}
                         height={36}
