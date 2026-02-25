@@ -69,7 +69,7 @@ export default function Features() {
                         className="text-3xl sm:text-4xl font-bold text-white mb-4"
                         style={{ fontFamily: "var(--font-heading)" }}
                     >
-                        Why <span className="gradient-text">Globee</span>?
+                        Why <span className="gradient-text">GlobeeLink</span>?
                     </h2>
                     <p className="text-white/40 max-w-md mx-auto">
                         Everything you need for seamless global connectivity

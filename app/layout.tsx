@@ -15,12 +15,16 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Globee — Global eSIM Coming Soon | Be First to Connect",
+  title: "GlobeeLink — Global eSIM Coming Soon | Be First to Connect",
   description:
-    "Globee is launching the world's smartest eSIM platform. Get early access, exclusive discounts, and instant connectivity in 150+ countries.",
-  keywords: ["eSIM", "global connectivity", "travel", "roaming", "data plan"],
+    "GlobeeLink is launching the world's smartest eSIM platform. Get early access, exclusive discounts, and instant connectivity in 150+ countries.",
+  keywords: ["eSIM", "global connectivity", "travel", "roaming", "data plan", "GlobeeLink"],
+  icons: {
+    icon: "/globee-logo.png",
+    apple: "/globee-logo.png",
+  },
   openGraph: {
-    title: "Globee — Global eSIM Coming Soon",
+    title: "GlobeeLink — Global eSIM Coming Soon",
     description:
       "Get early access to the world's smartest eSIM platform. Instant connectivity in 150+ countries.",
     type: "website",
@@ -28,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Globee — Global eSIM Coming Soon",
+    title: "GlobeeLink — Global eSIM Coming Soon",
     description:
       "Get early access to the world's smartest eSIM platform. Instant connectivity in 150+ countries.",
   },
